@@ -1,2 +1,3 @@
 # Users must have write permissions to be added as code owner
 *.md @subnet255
+*.js @adomonir
